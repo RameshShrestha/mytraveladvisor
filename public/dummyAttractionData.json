@@ -1,0 +1,3051 @@
+{"data":[
+    {
+        "location_id": "1226117",
+        "name": "Vivanta Bengaluru, Whitefield",
+        "latitude": "12.986804",
+        "longitude": "77.737526",
+        "num_reviews": "1786",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/a5/cc/bd/exterior.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/a5/cc/bd/exterior.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/a5/cc/bd/exterior.jpg",
+                    "height": "542"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/a5/cc/bd/exterior.jpg",
+                    "height": "291"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/a5/cc/bd/exterior.jpg",
+                    "height": "132"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2020-07-29T01:08:38-0400",
+            "caption": "Exterior",
+            "id": "463850685",
+            "helpful_votes": "0",
+            "published_date": "2020-07-29T01:08:38-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.536128044128418",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "1",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#1 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "2.1778285253582075",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$$",
+        "price": "$83 - $185",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "5.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "31c1dbdd-a54c-48ef-92fd-b8ec15b35f57"
+    },
+    {
+        "location_id": "1852829",
+        "name": "Aloft Bengaluru Whitefield",
+        "latitude": "12.991339",
+        "longitude": "77.73264",
+        "num_reviews": "1447",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/94/3e/41/exterior.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/94/3e/41/exterior.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "4000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/94/3e/41/exterior.jpg",
+                    "height": "2667"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/94/3e/41/exterior.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/94/3e/41/exterior.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-12-11T01:48:32-0500",
+            "caption": "Exterior",
+            "id": "563363393",
+            "helpful_votes": "0",
+            "published_date": "2021-12-11T01:48:32-0500",
+            "user": null
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.607585906982422",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "2",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#2 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.8779711164079844",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$66 - $109",
+        "hotel_class": "4.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": [
+                {
+                    "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183962816&geo=1852829&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=223199819&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZ8irLXJoqlkNuJpOW0MpfPWcOXMHzbtrBetUG0nK9V9w&dated=true&bapid=1&cs=161674ea1c37684123f7274c74da12499",
+                    "label": "Hotel website",
+                    "type": "url"
+                }
+            ]
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "2691e48f-0593-4dd7-a291-3575a13d78a1"
+    },
+    {
+        "location_id": "10847336",
+        "name": "RBD Sarovar Portico Outer Ring Road Bengaluru",
+        "latitude": "12.981153",
+        "longitude": "77.693",
+        "num_reviews": "290",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/b3/81/cb/meeting-room.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/b3/81/cb/meeting-room.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/b3/81/cb/meeting-room.jpg",
+                    "height": "683"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/b3/81/cb/meeting-room.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/b3/81/cb/meeting-room.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-03-03T02:15:31-0500",
+            "caption": "Meeting Room",
+            "id": "481526219",
+            "helpful_votes": "0",
+            "published_date": "2021-03-03T02:15:31-0500",
+            "user": null
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2018",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2018"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.608727931976318",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "3",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#3 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.9042427520454466",
+        "distance_string": null,
+        "bearing": "southwest",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$53 - $92",
+        "hotel_class": "3.5",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "535cb3bf-c9df-420d-910a-3e42c4f8a9dd"
+    },
+    {
+        "location_id": "3721806",
+        "name": "Holiday Inn Express Bengaluru Whitefield ITPL",
+        "latitude": "12.986548",
+        "longitude": "77.73272",
+        "num_reviews": "245",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/0f/47/f5/holiday-inn-express-bengaluru.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/0f/47/f5/holiday-inn-express-bengaluru.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "4000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/0f/47/f5/holiday-inn-express-bengaluru.jpg",
+                    "height": "3159"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/0f/47/f5/holiday-inn-express-bengaluru.jpg",
+                    "height": "434"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/0f/47/f5/holiday-inn-express-bengaluru.jpg",
+                    "height": "197"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-05-31T01:32:57-0400",
+            "caption": "Holiday Inn Express Bengaluru Whitefield ITPL_Exterior_Night",
+            "id": "487540725",
+            "helpful_votes": "0",
+            "published_date": "2021-05-31T01:32:57-0400",
+            "user": null
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2017",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2017"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2014",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2014"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.7219038009643555",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "4",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#4 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.8537989587289363",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$39 - $54",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "b84b44d1-5608-4a62-8f18-f263148f2fe4"
+    },
+    {
+        "location_id": "15117081",
+        "name": "Fairfield by Marriott Bengaluru Whitefield",
+        "latitude": "12.981179",
+        "longitude": "77.70896",
+        "num_reviews": "486",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1d/9e/ef/9a/front-desk.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1d/9e/ef/9a/front-desk.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "4000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1d/9e/ef/9a/front-desk.jpg",
+                    "height": "2667"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1d/9e/ef/9a/front-desk.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1d/9e/ef/9a/front-desk.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-08-18T03:14:53-0400",
+            "caption": "Front Desk",
+            "id": "496955290",
+            "helpful_votes": "0",
+            "published_date": "2021-08-18T03:14:53-0400",
+            "user": null
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.81175422668457",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "5",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#5 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.4496885835836117",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$62 - $102",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": [
+                {
+                    "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183961987&geo=15117081&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=223199819&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZ87arq0ibt0Zc-ivYBMeAJVkUZWnmSaIW-7rkFCEG-7A&dated=true&bapid=1&cs=1d71dc54c55a529695434364a7abfa604",
+                    "label": "Hotel website",
+                    "type": "url"
+                }
+            ]
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "b1ca53ca-f08e-4634-8c3f-7439ac7e97ad"
+    },
+    {
+        "location_id": "625418",
+        "name": "MGM Mark Whitefield Hotel",
+        "latitude": "12.98965",
+        "longitude": "77.71858",
+        "num_reviews": "190",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/05/b9/50/24/mgm-mark-whitefield-hotel.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/05/b9/50/24/mgm-mark-whitefield-hotel.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "600",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/05/b9/50/24/mgm-mark-whitefield-hotel.jpg",
+                    "height": "400"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/05/b9/50/24/mgm-mark-whitefield-hotel.jpg",
+                    "height": "366"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/05/b9/50/24/mgm-mark-whitefield-hotel.jpg",
+                    "height": "166"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2014-04-15T06:41:38-0400",
+            "caption": "Exterior",
+            "id": "96030756",
+            "helpful_votes": "4",
+            "published_date": "2014-04-15T06:41:38-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2018",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2018"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2015",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2015"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.6682004928588867",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "6",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#6 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.9259453344677855",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$43 - $53",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "9f9851b2-9c39-4bac-8f44-294e1df56bc3"
+    },
+    {
+        "location_id": "297628",
+        "ad_position": "inline1",
+        "ad_size": "8X8",
+        "doubleclick_zone": "as.india.karnataka.bangalore",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Bangalore District",
+                "abbrv": null,
+                "location_id": "12392950"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Karnataka",
+                "abbrv": null,
+                "location_id": "297627"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "4345710",
+        "name": "Icon Select By Bhagini",
+        "latitude": "12.991009",
+        "longitude": "77.68803",
+        "num_reviews": "106",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/8b/0e/dd/the-iris-inn-by-bhagini.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/8b/0e/dd/the-iris-inn-by-bhagini.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "5472",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/8b/0e/dd/the-iris-inn-by-bhagini.jpg",
+                    "height": "3648"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/8b/0e/dd/the-iris-inn-by-bhagini.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/8b/0e/dd/the-iris-inn-by-bhagini.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-01-19T00:49:18-0500",
+            "caption": "Suite Room",
+            "id": "478875357",
+            "helpful_votes": "0",
+            "published_date": "2021-01-19T00:49:18-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.6292362213134766",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "7",
+        "ranking_denominator": "3935",
+        "ranking_category": "bb",
+        "ranking": "#7 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "1.1987394321682037",
+        "distance_string": null,
+        "bearing": "west",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$37 - $56",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "08b96968-d133-4d4c-afe2-9b81ad5d7813"
+    },
+    {
+        "location_id": "14047446",
+        "name": "The Sanctum Suites Whitefield",
+        "latitude": "12.98392",
+        "longitude": "77.72893",
+        "num_reviews": "18",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/12/d2/f9/5a/reception-and-lobby-area.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/12/d2/f9/5a/reception-and-lobby-area.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "2000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/12/d2/f9/5a/reception-and-lobby-area.jpg",
+                    "height": "1333"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/12/d2/f9/5a/reception-and-lobby-area.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/12/d2/f9/5a/reception-and-lobby-area.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-05-02T06:47:47-0400",
+            "caption": "Reception and Lobby Area",
+            "id": "315816282",
+            "helpful_votes": "0",
+            "published_date": "2018-05-02T06:47:47-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.184537649154663",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "8",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#8 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.608624113366748",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$33 - $37",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "efc4f08c-ed2a-4226-acac-12eb9d841e60"
+    },
+    {
+        "location_id": "13342697",
+        "name": "Bulande Comforts",
+        "latitude": "12.98392",
+        "longitude": "77.72893",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "ranking_position": "9",
+        "ranking_denominator": "3935",
+        "ranking": "#9 Best Value of 3,935 places to stay in Bengaluru",
+        "distance": "1.608624113366748",
+        "distance_string": null,
+        "bearing": "east",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$22 - $30",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "4384e9b0-5f06-4370-bbb8-e1bee8efb744"
+    },
+    {
+        "location_id": "10105244",
+        "name": "The Waverly Hotel & Residences",
+        "latitude": "12.996281",
+        "longitude": "77.69538",
+        "num_reviews": "305",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/eb/fe/8c/property-amenity.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/eb/fe/8c/property-amenity.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/eb/fe/8c/property-amenity.jpg",
+                    "height": "629"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/eb/fe/8c/property-amenity.jpg",
+                    "height": "338"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/eb/fe/8c/property-amenity.jpg",
+                    "height": "154"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-08-23T23:24:22-0400",
+            "caption": "Property amenity",
+            "id": "418119308",
+            "helpful_votes": "0",
+            "published_date": "2019-08-23T23:24:22-0400",
+            "user": null
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2018",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2018"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2017",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2017"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.589410305023193",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "10",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#10 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.9442145892242494",
+        "distance_string": null,
+        "bearing": "northwest",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$$",
+        "price": "$88 - $137",
+        "hotel_class": "5.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "1b6c66ad-eaed-44e2-a660-d8c7e3e14f83"
+    },
+    {
+        "location_id": "15462748",
+        "name": "Professionals Pride",
+        "latitude": "12.98508",
+        "longitude": "77.74432",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/21/ed/10/ce/caption.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/21/ed/10/ce/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/21/ed/10/ce/caption.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/21/ed/10/ce/caption.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/21/ed/10/ce/caption.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-01-22T02:15:51-0500",
+            "caption": "",
+            "id": "569184462",
+            "helpful_votes": "0",
+            "published_date": "2022-01-22T02:15:51-0500",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "ranking_position": "11",
+        "ranking_denominator": "3935",
+        "ranking": "#11 Best Value of 3,935 places to stay in Bengaluru",
+        "distance": "2.637935169889539",
+        "distance_string": null,
+        "bearing": "east",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "e1eaf63f-b83b-42c8-a37b-c070f86f897e"
+    },
+    {
+        "location_id": "10105875",
+        "name": "Collection O 30001 Whitefield ITPL",
+        "latitude": "12.986214",
+        "longitude": "77.744896",
+        "num_reviews": "3",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/19/05/63/edition-o-30001-whitefield.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/19/05/63/edition-o-30001-whitefield.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1440",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/19/05/63/edition-o-30001-whitefield.jpg",
+                    "height": "960"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/19/05/63/edition-o-30001-whitefield.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/19/05/63/edition-o-30001-whitefield.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-06-28T04:06:42-0400",
+            "caption": "",
+            "id": "404292963",
+            "helpful_votes": "0",
+            "published_date": "2019-06-28T04:06:42-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.023015260696411",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "12",
+        "ranking_denominator": "3935",
+        "ranking_category": "bb",
+        "ranking": "#12 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "2.6746181498543886",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$15 - $49",
+        "hotel_class": "2.5",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "ef82cc39-ed74-4dd5-9c81-25e3555af4ab"
+    },
+    {
+        "location_id": "12854203",
+        "name": "Days Suites Bengaluru",
+        "latitude": "12.987566",
+        "longitude": "77.7264",
+        "num_reviews": "106",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/bc/e6/82/guest-room.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/bc/e6/82/guest-room.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1023",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/bc/e6/82/guest-room.jpg",
+                    "height": "682"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/bc/e6/82/guest-room.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/bc/e6/82/guest-room.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-12-30T01:37:33-0500",
+            "caption": "Guest room",
+            "id": "566027906",
+            "helpful_votes": "0",
+            "published_date": "2021-12-30T01:37:33-0500",
+            "user": null
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.681093692779541",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "13",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#13 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.4297115631186377",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$44 - $54",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "9b5651e4-ded7-4488-ae1d-d078755d637d"
+    },
+    {
+        "location_id": "6419973",
+        "name": "Chris Hotel Whitefield",
+        "latitude": "12.977258",
+        "longitude": "77.72487",
+        "num_reviews": "48",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/18/19/0a/96/edition-o-30005-whitefield.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/18/19/0a/96/edition-o-30005-whitefield.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1440",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/18/19/0a/96/edition-o-30005-whitefield.jpg",
+                    "height": "960"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/18/19/0a/96/edition-o-30005-whitefield.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/18/19/0a/96/edition-o-30005-whitefield.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2019-06-28T04:18:46-0400",
+            "caption": "",
+            "id": "404294294",
+            "helpful_votes": "0",
+            "published_date": "2019-06-28T04:18:46-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.065185070037842",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "14",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#14 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.4726505306376962",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$54 - $55",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "e6759d1c-cef1-402c-a0b3-f9acbb313909"
+    },
+    {
+        "location_id": "297628",
+        "ad_position": "inline2",
+        "ad_size": "8X8",
+        "doubleclick_zone": "as.india.karnataka.bangalore",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Bangalore District",
+                "abbrv": null,
+                "location_id": "12392950"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Karnataka",
+                "abbrv": null,
+                "location_id": "297627"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "634824",
+        "name": "Radha Hometel",
+        "latitude": "12.977544",
+        "longitude": "77.71327",
+        "num_reviews": "441",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/b3/8a/03/dining.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/b3/8a/03/dining.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/b3/8a/03/dining.jpg",
+                    "height": "683"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/b3/8a/03/dining.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1c/b3/8a/03/dining.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-03-03T02:19:00-0500",
+            "caption": "Dining",
+            "id": "481528323",
+            "helpful_votes": "0",
+            "published_date": "2021-03-03T02:19:00-0500",
+            "user": null
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2017",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2017"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2016",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2016"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2015",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2015"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2013",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2013"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2012",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2012_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2012"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.3179755210876465",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "15",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#15 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.8268833550096315",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$30 - $57",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "918364f3-b806-4ffb-b98a-3bdea9b3bc35"
+    },
+    {
+        "location_id": "2187664",
+        "name": "Keys Select By Lemon Tree Hotels, Whitefield, Bengaluru",
+        "latitude": "12.979276",
+        "longitude": "77.70957",
+        "num_reviews": "1529",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0c/cb/f5/7a/img-20160901-150933-largejpg.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0c/cb/f5/7a/img-20160901-150933-largejpg.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1152",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0c/cb/f5/7a/img-20160901-150933-largejpg.jpg",
+                    "height": "864"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0c/cb/f5/7a/img-20160901-150933-largejpg.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0c/cb/f5/7a/img-20160901-150933-largejpg.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2016-09-01T22:28:21-0400",
+            "caption": "",
+            "id": "214693242",
+            "helpful_votes": "3",
+            "published_date": "2016-09-01T22:28:21-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2018",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2018"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2016",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2016"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2013",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2013"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.587774753570557",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "16",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#16 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.5831077718458896",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$33 - $77",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "5df6abaa-dd86-425f-a26e-44e4045975f8"
+    },
+    {
+        "location_id": "678031",
+        "name": "Ginger Bangalore (Whitefield)",
+        "latitude": "12.97679",
+        "longitude": "77.71848",
+        "num_reviews": "712",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/bd/6f/c2/ginger-bangalore-whitefield.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/bd/6f/c2/ginger-bangalore-whitefield.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "841",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/bd/6f/c2/ginger-bangalore-whitefield.jpg",
+                    "height": "599"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/bd/6f/c2/ginger-bangalore-whitefield.jpg",
+                    "height": "392"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/bd/6f/c2/ginger-bangalore-whitefield.jpg",
+                    "height": "178"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-12-30T03:27:12-0500",
+            "caption": "",
+            "id": "566063042",
+            "helpful_votes": "0",
+            "published_date": "2021-12-30T03:27:12-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.652410984039307",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "17",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#17 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.1208314108492163",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$34 - $53",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "bdc8f1ad-bc08-42a6-bf34-13328ffccd55"
+    },
+    {
+        "location_id": "3667319",
+        "name": "Ankit Vista Green Village",
+        "latitude": "12.98705",
+        "longitude": "77.69503",
+        "num_reviews": "57",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/0d/fc/05/84/ankit-vista-green-village.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/0d/fc/05/84/ankit-vista-green-village.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1366",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/0d/fc/05/84/ankit-vista-green-village.jpg",
+                    "height": "768"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/0d/fc/05/84/ankit-vista-green-village.jpg",
+                    "height": "309"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/0d/fc/05/84/ankit-vista-green-village.jpg",
+                    "height": "141"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2016-12-28T02:10:18-0500",
+            "caption": "",
+            "id": "234620292",
+            "helpful_votes": "2",
+            "published_date": "2016-12-28T02:10:18-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2018",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2018"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.4160616397857666",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "18",
+        "ranking_denominator": "3935",
+        "ranking_category": "bb",
+        "ranking": "#18 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "guest_house",
+        "subcategory_type_label": "Guest house",
+        "distance": "0.6873363104890029",
+        "distance_string": null,
+        "bearing": "west",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$49 - $126",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "38e461bf-2595-42ce-bc65-e4b2343954ce"
+    },
+    {
+        "location_id": "1015286",
+        "name": "Fortune Select Trinity",
+        "latitude": "12.977381",
+        "longitude": "77.71446",
+        "num_reviews": "607",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1b/5c/b7/69/fortune-select-trinity.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1b/5c/b7/69/fortune-select-trinity.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1b/5c/b7/69/fortune-select-trinity.jpg",
+                    "height": "958"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1b/5c/b7/69/fortune-select-trinity.jpg",
+                    "height": "412"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1b/5c/b7/69/fortune-select-trinity.jpg",
+                    "height": "187"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2020-05-30T10:06:50-0400",
+            "caption": "",
+            "id": "459061097",
+            "helpful_votes": "0",
+            "published_date": "2020-05-30T15:08:29-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2018",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2018_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2018"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2017",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2017"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2016",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2016"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2015",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2015"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2014",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2014_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2014"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2013",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2013_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2013"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.228951930999756",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "19",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#19 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "0.8896591327399542",
+        "distance_string": null,
+        "bearing": "southeast",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$56 - $139",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "4.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "36e4c367-379f-4d48-9d29-442c4d0949a1"
+    },
+    {
+        "location_id": "13943346",
+        "name": "Sheraton Grand Bengaluru Whitefield Hotel & Convention Center",
+        "latitude": "12.989336",
+        "longitude": "77.73003",
+        "num_reviews": "1371",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/21/eb/11/de/outdoor-pool.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/21/eb/11/de/outdoor-pool.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "4000",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/21/eb/11/de/outdoor-pool.jpg",
+                    "height": "2667"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/21/eb/11/de/outdoor-pool.jpg",
+                    "height": "367"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/21/eb/11/de/outdoor-pool.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-01-21T01:47:09-0500",
+            "caption": "Outdoor Pool",
+            "id": "569053662",
+            "helpful_votes": "0",
+            "published_date": "2022-01-21T01:47:09-0500",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.728062152862549",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "20",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#20 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.6832629517436963",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$$",
+        "price": "$139 - $281",
+        "hotel_class": "4.5",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": [
+                {
+                    "value": "https://www.tripadvisor.com/Commerce?p=Marriott_BA&src=183959528&geo=13943346&from=api&area=&slot=1&matchID=1&oos=0&cnt=1&silo=38058&bucket=934870&nrank=1&crank=1&clt=CLM&ttype=ContactLinkMobile&tm=223199819&managed=false&capped=false&gosox=g3xMt9YCHBy3ZUg-YypssegjQviHlJQg6b-lnBPg98x_z9Z0XP9pjcZi3RyRnEOZap5T0axXi4qvkiG-Mz4Gt0NFjri0oVciqVoCyG46jCw&dated=true&bapid=1&cs=1c42031ccbd82d9bf6237e73eb830ed3b",
+                    "label": "Hotel website",
+                    "type": "url"
+                }
+            ]
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "3a206e5a-5ee5-4f40-80ca-78d1bc2a89d1"
+    },
+    {
+        "location_id": "21172119",
+        "name": "Capital O 43639 Hotel Sri Udupi Park",
+        "latitude": "12.987963",
+        "longitude": "77.73405",
+        "num_reviews": "1",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-l/21/02/0d/00/caption.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/21/02/0d/00/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/21/02/0d/00/caption.jpg",
+                    "height": "366"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/21/02/0d/00/caption.jpg",
+                    "height": "366"
+                },
+                "medium": {
+                    "width": "500",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/21/02/0d/00/caption.jpg",
+                    "height": "333"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-10-25T05:29:45-0400",
+            "caption": "",
+            "id": "553782528",
+            "helpful_votes": "0",
+            "published_date": "2021-10-25T05:29:45-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "2.714468240737915",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "21",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#21 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.945693782164826",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "1.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "1b02a479-cccd-4b56-987d-70b19b6befc0"
+    },
+    {
+        "location_id": "6902425",
+        "name": "Park Inn Hospitality",
+        "latitude": "12.9933",
+        "longitude": "77.72764",
+        "num_reviews": "6",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/99/5a/e1/park-inn-hospitality.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/99/5a/e1/park-inn-hospitality.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1440",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/99/5a/e1/park-inn-hospitality.jpg",
+                    "height": "960"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/99/5a/e1/park-inn-hospitality.jpg",
+                    "height": "366"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/99/5a/e1/park-inn-hospitality.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2015-03-28T21:12:54-0400",
+            "caption": "Estate View",
+            "id": "127490785",
+            "helpful_votes": "1",
+            "published_date": "2015-03-28T21:12:54-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.017317533493042",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "22",
+        "ranking_denominator": "3935",
+        "ranking_category": "bb",
+        "ranking": "#22 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "1.5816065751171873",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "3.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$22 - $31",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "8489eb95-233a-4b8a-b04a-ec09f274faec"
+    },
+    {
+        "location_id": "297628",
+        "ad_position": "inline3",
+        "ad_size": "8X8",
+        "doubleclick_zone": "as.india.karnataka.bangalore",
+        "ancestors": [
+            {
+                "subcategory": [
+                    {
+                        "key": "district",
+                        "name": "District"
+                    }
+                ],
+                "name": "Bangalore District",
+                "abbrv": null,
+                "location_id": "12392950"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "state",
+                        "name": "State"
+                    }
+                ],
+                "name": "Karnataka",
+                "abbrv": null,
+                "location_id": "297627"
+            },
+            {
+                "subcategory": [
+                    {
+                        "key": "country",
+                        "name": "Country"
+                    }
+                ],
+                "name": "India",
+                "abbrv": null,
+                "location_id": "293860"
+            }
+        ],
+        "detail": "0",
+        "page_type": "hotels",
+        "mob_ptype": "app_hotels"
+    },
+    {
+        "location_id": "4343713",
+        "name": "Crest Executive Suites",
+        "latitude": "12.991363",
+        "longitude": "77.72861",
+        "num_reviews": "74",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/04/60/dd/98/crest-executive-suites.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/04/60/dd/98/crest-executive-suites.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1200",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/04/60/dd/98/crest-executive-suites.jpg",
+                    "height": "800"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/04/60/dd/98/crest-executive-suites.jpg",
+                    "height": "366"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/04/60/dd/98/crest-executive-suites.jpg",
+                    "height": "166"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2013-08-17T08:44:56-0400",
+            "caption": "King Bedroom",
+            "id": "73457048",
+            "helpful_votes": "1",
+            "published_date": "2013-08-17T08:44:56-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2017",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2017_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2017"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2016",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2016_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2016"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2015",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2015_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2015"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.3926584720611572",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "23",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#23 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.611246170160964",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$42 - $94",
+        "hotel_class": "3.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "bdd14d35-35e4-4837-b131-bbf0420fea47"
+    },
+    {
+        "location_id": "13200517",
+        "name": "The Den",
+        "latitude": "12.987696",
+        "longitude": "77.73354",
+        "num_reviews": "723",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1c/a2/7e/02/the-den-icon.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1c/a2/7e/02/the-den-icon.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "463",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/a2/7e/02/the-den-icon.jpg",
+                    "height": "450"
+                },
+                "large": {
+                    "width": "463",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1c/a2/7e/02/the-den-icon.jpg",
+                    "height": "450"
+                },
+                "medium": {
+                    "width": "332",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/1c/a2/7e/02/the-den-icon.jpg",
+                    "height": "323"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2021-02-12T02:18:49-0500",
+            "caption": "The Den Icon",
+            "id": "480411138",
+            "helpful_votes": "0",
+            "published_date": "2021-02-12T02:18:49-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2021",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2021_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2021"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2020",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2020_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2020"
+            },
+            {
+                "award_type": "CERTIFICATE_OF_EXCELLENCE",
+                "year": "2019",
+                "images": {
+                    "small": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_small-0-5.jpg",
+                    "large": "https://www.tripadvisor.com/img/cdsi/img2/awards/CERTIFICATE_OF_EXCELLENCE_2019_en_US_large-0-5.jpg"
+                },
+                "categories": [],
+                "display_name": "Certificate of Excellence 2019"
+            }
+        ],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "4.877730846405029",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "24",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#24 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "1.9109496759073659",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$$",
+        "price": "$77 - $211",
+        "hotel_class": "5.0",
+        "hotel_class_attribution": "This property is classified according to Giata.",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "d262a4ec-a8fc-44a8-95b6-d13263947d0b"
+    },
+    {
+        "location_id": "12921145",
+        "name": "Orbis Hotel",
+        "latitude": "12.99225",
+        "longitude": "77.71755",
+        "num_reviews": "9",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/13/ea/e0/49/staled-biriyani.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/13/ea/e0/49/staled-biriyani.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1024",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-w/13/ea/e0/49/staled-biriyani.jpg",
+                    "height": "1820"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-p/13/ea/e0/49/staled-biriyani.jpg",
+                    "height": "977"
+                },
+                "medium": {
+                    "width": "253",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/13/ea/e0/49/staled-biriyani.jpg",
+                    "height": "450"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2018-07-30T11:09:31-0400",
+            "caption": "Staled biriyani",
+            "id": "334159945",
+            "helpful_votes": "0",
+            "published_date": "2018-07-30T11:09:31-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "2.7930407524108887",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "25",
+        "ranking_denominator": "3935",
+        "ranking_category": "bb",
+        "ranking": "#25 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "small_hotel",
+        "subcategory_type_label": "Small Hotel",
+        "distance": "0.9199893334935402",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "2.5",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$$",
+        "price": "$134 - $158",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "b8d50e5b-57db-4e9d-b628-4dddbbcd1962"
+    },
+    {
+        "location_id": "7317116",
+        "name": "Adi Hospitality Service Apartments",
+        "latitude": "12.99371",
+        "longitude": "77.70238",
+        "num_reviews": "11",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/07/20/5b/93/adi-hospitality.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/07/20/5b/93/adi-hospitality.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-o/07/20/5b/93/adi-hospitality.jpg",
+                    "height": "853"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/07/20/5b/93/adi-hospitality.jpg",
+                    "height": "366"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/07/20/5b/93/adi-hospitality.jpg",
+                    "height": "167"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2015-01-01T01:25:31-0500",
+            "caption": "Suite Room",
+            "id": "119561107",
+            "helpful_votes": "0",
+            "published_date": "2015-01-01T01:25:31-0500",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "2.8841254711151123",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "26",
+        "ranking_denominator": "3935",
+        "ranking_category": "other",
+        "ranking": "#26 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "condo",
+        "subcategory_type_label": "Condominium",
+        "distance": "0.5303149583000932",
+        "distance_string": null,
+        "bearing": "north",
+        "rating": "3.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "$",
+        "price": "$24 - $33",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "80da3843-e476-4a8e-96fa-eb3040b1f613"
+    },
+    {
+        "location_id": "23604097",
+        "name": "Icon Regency By Bhagini whitefield",
+        "latitude": "12.986179",
+        "longitude": "77.74492",
+        "num_reviews": "2",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "150",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-l/1f/ce/77/6e/icon-regency-by-bhagini.jpg",
+                    "height": "150"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-t/1f/ce/77/6e/icon-regency-by-bhagini.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "1280",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-m/1280/1f/ce/77/6e/icon-regency-by-bhagini.jpg",
+                    "height": "960"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-s/1f/ce/77/6e/icon-regency-by-bhagini.jpg",
+                    "height": "413"
+                },
+                "medium": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/photo-f/1f/ce/77/6e/icon-regency-by-bhagini.jpg",
+                    "height": "188"
+                }
+            },
+            "is_blessed": false,
+            "uploaded_date": "2021-10-12T07:31:26-0400",
+            "caption": "",
+            "id": "533624686",
+            "helpful_votes": "0",
+            "published_date": "2021-10-12T07:31:26-0400",
+            "user": {
+                "user_id": null,
+                "member_id": "0",
+                "type": "user"
+            }
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.079659938812256",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "27",
+        "ranking_denominator": "3935",
+        "ranking_category": "hotel",
+        "ranking": "#27 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "hotel",
+        "subcategory_type_label": "Hotel",
+        "distance": "2.676183208000448",
+        "distance_string": null,
+        "bearing": "east",
+        "rating": "5.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "dfce7f6e-97e6-4c7c-9e9c-123d713ac0f1"
+    },
+    {
+        "location_id": "11882022",
+        "name": "Whitefield Service Apartment",
+        "latitude": "12.99173",
+        "longitude": "77.71394",
+        "num_reviews": "1",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/1b/b9/a6/c0/1569128.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/1b/b9/a6/c0/1569128.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/1b/b9/a6/c0/1569128.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/1b/b9/a6/c0/1569128.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/1b/b9/a6/c0/1569128.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2020-08-08T23:47:08-0400",
+            "caption": "Whitefield Service Apartment",
+            "id": "465151680",
+            "helpful_votes": "0",
+            "published_date": "2020-08-08T23:47:08-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "raw_ranking": "3.018378973007202",
+        "ranking_geo": "Bengaluru",
+        "ranking_geo_id": "297628",
+        "ranking_position": "28",
+        "ranking_denominator": "3935",
+        "ranking_category": "other",
+        "ranking": "#28 Best Value of 3,935 places to stay in Bengaluru",
+        "subcategory_type": "condo",
+        "subcategory_type_label": "Condominium",
+        "distance": "0.6884700261005046",
+        "distance_string": null,
+        "bearing": "northeast",
+        "rating": "4.0",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "8dcadc60-48be-49e5-8bd8-2612ccde53f4"
+    },
+    {
+        "location_id": "23346234",
+        "name": "Arostays Chris Hotel",
+        "latitude": "12.977258",
+        "longitude": "77.72487",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/1d/46/87/02/7230574.jpg",
+                    "height": "144"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/1d/46/87/02/7230574.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/1d/46/87/02/7230574.jpg",
+                    "height": "316"
+                },
+                "large": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/1d/46/87/02/7230574.jpg",
+                    "height": "316"
+                },
+                "medium": {
+                    "width": "500",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/1d/46/87/02/7230574.jpg",
+                    "height": "287"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2021-07-05T23:47:15-0400",
+            "caption": "Arostays Chris Hotel",
+            "id": "491161346",
+            "helpful_votes": "0",
+            "published_date": "2021-07-05T23:47:15-0400",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "ranking_position": "29",
+        "ranking_denominator": "3935",
+        "ranking": "#29 Best Value of 3,935 places to stay in Bengaluru",
+        "distance": "1.4726505306376962",
+        "distance_string": null,
+        "bearing": "southeast",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "neighborhood_info": [
+            {
+                "location_id": "13087493",
+                "name": "Whitefield"
+            }
+        ],
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "56e90bc9-ad38-4edc-bdb0-e09b69f86190"
+    },
+    {
+        "location_id": "23703177",
+        "name": "Capital O 82899 Tej Hotel",
+        "latitude": "12.978055",
+        "longitude": "77.710686",
+        "num_reviews": "0",
+        "timezone": "Asia/Kolkata",
+        "location_string": "Bengaluru, Bangalore District, Karnataka",
+        "photo": {
+            "images": {
+                "small": {
+                    "width": "250",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-f/21/ec/73/c2/caption.jpg",
+                    "height": "137"
+                },
+                "thumbnail": {
+                    "width": "50",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-t/21/ec/73/c2/caption.jpg",
+                    "height": "50"
+                },
+                "original": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/21/ec/73/c2/caption.jpg",
+                    "height": "460"
+                },
+                "large": {
+                    "width": "840",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-o/21/ec/73/c2/caption.jpg",
+                    "height": "460"
+                },
+                "medium": {
+                    "width": "550",
+                    "url": "https://media-cdn.tripadvisor.com/media/partner/bookingcom/photo-s/21/ec/73/c2/caption.jpg",
+                    "height": "301"
+                }
+            },
+            "is_blessed": true,
+            "uploaded_date": "2022-01-22T00:21:57-0500",
+            "caption": "",
+            "id": "569144258",
+            "helpful_votes": "0",
+            "published_date": "2022-01-22T00:21:57-0500",
+            "user": null
+        },
+        "awards": [],
+        "preferred_map_engine": "default",
+        "autobroaden_type": "category_integrated",
+        "autobroaden_label": "Bengaluru Places to Stay",
+        "ranking_position": "30",
+        "ranking_denominator": "3935",
+        "ranking": "#30 Best Value of 3,935 places to stay in Bengaluru",
+        "distance": "0.6942243190306253",
+        "distance_string": null,
+        "bearing": "southeast",
+        "is_closed": false,
+        "is_long_closed": false,
+        "price_level": "",
+        "hotel_class": "0.0",
+        "business_listings": {
+            "desktop_contacts": [],
+            "mobile_contacts": []
+        },
+        "special_offers": {
+            "desktop": [],
+            "mobile": []
+        },
+        "listing_key": "f03160c9-871b-4c2e-908b-2b14f2ba50f6"
+    }
+]}
